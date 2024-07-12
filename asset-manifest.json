@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/replyre/edu-planner/static/css/main.4e07d57a.css",
+    "main.js": "/replyre/edu-planner/static/js/main.1c6950a0.js",
+    "static/media/bg.jpg": "/replyre/edu-planner/static/media/bg.bef1e5fd25e595991e27.jpg",
+    "index.html": "/replyre/edu-planner/index.html",
+    "main.4e07d57a.css.map": "/replyre/edu-planner/static/css/main.4e07d57a.css.map",
+    "main.1c6950a0.js.map": "/replyre/edu-planner/static/js/main.1c6950a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e07d57a.css",
+    "static/js/main.1c6950a0.js"
+  ]
+}
